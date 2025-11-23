@@ -94,3 +94,4 @@ student-grade-analysis/
 This project demonstrates a complete and functional **Student Grade Analysis Tool** developed using C. It successfully covers fundamental DSA concepts and basic analytics needed for academic evaluation. The implementation is simple, modular, and aligns with 3rd-semester coursework requirements.
 ---
 
+ 
