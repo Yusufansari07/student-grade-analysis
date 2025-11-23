@@ -1,9 +1,4 @@
 # Student Grade Analysis Tool in C
-
-<div align="center">
-  <img src="https://dummyimage.com/600x180/1e1e1e/ffffff&text=Student+Grade+Analysis+Tool" alt="Project Banner"/>
-</div>
-
 ---
 
 ## 📌 Project Overview
